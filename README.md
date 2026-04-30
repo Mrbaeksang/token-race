@@ -199,7 +199,7 @@ make dev                  # Docker로 전체 실행
 
 <div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Mrbaeksang/tokenrace&type=Date&theme=dark)](https://star-history.com/#Mrbaeksang/tokenrace&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Mrbaeksang/token-race&type=Date&theme=dark)](https://star-history.com/#Mrbaeksang/token-race&Date)
 
 </div>
 
