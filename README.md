@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/logo.svg" alt="TokenRace Logo" width="80" />
+<img src="logo.svg" alt="TokenRace Logo" width="80" />
 
 # TokenRace 🏎
 
