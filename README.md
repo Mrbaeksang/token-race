@@ -8,7 +8,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 [![Go Version](https://img.shields.io/badge/Go-1.23-00ADD8?style=flat-square&logo=go)](https://go.dev)
-[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)](https://nextjs.org)
+[![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js)](https://nextjs.org)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
 [![Deploy on Railway](https://img.shields.io/badge/Deploy-Railway-7B2FBE?style=flat-square&logo=railway)](https://railway.app)
 [![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=flat-square&logo=vercel)](https://vercel.com)
@@ -79,7 +79,7 @@
                          │  GET /ranking (30s poll)
                          ▼
               ┌─────────────────────┐
-              │   Next.js 15        │
+              │   Next.js 16        │
               │   Vercel            │
               │   🏎 F1 랭킹 UI    │
               └─────────────────────┘
@@ -165,7 +165,7 @@ make dev                  # Docker로 전체 실행
 </td>
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=nextjs" width="40" /><br/>
-<strong>Next.js 15</strong><br/>
+<strong>Next.js 16</strong><br/>
 <sub>Dashboard</sub>
 </td>
 <td align="center" width="110">
