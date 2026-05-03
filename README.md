@@ -111,7 +111,7 @@ token-race init
 - API 키 무제한
 ```
 
-스폰서십이나 셀프호스팅 문의는 [GitHub Discussions](https://github.com/Mrbaeksang/token-race/discussions) 또는 [me@baeksang.dev](mailto:me@baeksang.dev)로.
+스폰서십이나 셀프호스팅 문의는 [GitHub Discussions](https://github.com/Mrbaeksang/token-race/discussions) 또는 [qortkdgus95@gmail.com](mailto:qortkdgus95@gmail.com)로.
 
 ---
 
